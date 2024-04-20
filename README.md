@@ -1,4 +1,4 @@
-👋 Hello there! I'm [Your Name], a passionate web developer with a love for crafting clean, efficient code and building engaging user experiences.
+👋 Hello there! I'm Chamika Munithunga, a passionate web developer with a love for crafting clean, efficient code and building engaging user experiences.
 
 💻 I specialize in front-end development using modern web technologies like HTML5, CSS3, and JavaScript. I'm also proficient in popular frameworks and libraries such as React.js, Vue.js, and Angular, enabling me to create dynamic and interactive web applications.
 
@@ -8,7 +8,7 @@
 
 🌟 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything web development-related.
 
-📫 You can reach me via email at [Your Email] or connect with me on LinkedIn [Your LinkedIn Profile URL].
+📫 You can reach me via email at chamikamunithunga140@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/chamika-munithunga-74801a2b1/.
 
 Happy coding! ✨
 
