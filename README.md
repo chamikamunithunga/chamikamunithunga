@@ -25,7 +25,7 @@
 </a>
 <br/>
 
-<p align="left"> <a href="https://github.com/chamikamunithunga?tab=repositories"><img src="https://github.com/chamikamunithunga?tab=repositories" alt="chamikamunithunga" /></a> </p>
+<p align="left"> <a href="https://github.com/chamikamunithunga?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=chamikamunithunga" alt="chamikamunithunga" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
