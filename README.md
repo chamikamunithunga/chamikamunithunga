@@ -13,7 +13,7 @@
 
 - 🔭 &nbsp; I’m currently Studying in **SLIIT CITY UNI, Undergraduate** (university of Bedfordshire)
 - 🌱 &nbsp; I’m currently learning **React.js/TypeScript and ML/Ai**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/wolfy-six/](https://github.com/chamikamunithunga?tab=repositories))
   <br>
 
   
