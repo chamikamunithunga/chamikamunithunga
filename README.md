@@ -4,19 +4,19 @@
   <img align="center" alt="GIF" src="https://i.pinimg.com/750x/b4/57/5f/b4575f0afc789be897ed29e9884a4fd2.jpg" width="50px" height="50px" />
 
     
-  
-  Hey 👋, I'm Seneth Mendis! </h1>
+ <h1 align="center">Hi 👋, I'm Chamika Munithunga</h1>
+<h3 align="center">passionate web developer with a knack for building intuitive and engaging user experiences.</h3> 
+
 
 [![](https://visitcount.itsvg.in/api?id=senethmendis&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 👤 More About Me:
 
 - 🔭 &nbsp; I’m currently Studying in **SLIIT, Undergraduate** (university of Bedfordshire)
-- 🌱 &nbsp; I’m currently learning **React.js**
+- 🌱 &nbsp; I’m currently learning **React.js/TypeScript and ML/Ai**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
   <br>
 
-<h1 align="center">Hi 👋, I'm Chamika Munithunga</h1>
-<h3 align="center">passionate web developer with a knack for building intuitive and engaging user experiences.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamikamunithunga&label=Profile%20views&color=0e75b6&style=flat" alt="chamikamunithunga" /> </p>
 
