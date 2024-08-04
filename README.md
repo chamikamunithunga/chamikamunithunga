@@ -1,7 +1,7 @@
-![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">
-  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50px" height="50px" />
+  <img align="center" alt="GIF" src="https://i.pinimg.com/750x/b4/57/5f/b4575f0afc789be897ed29e9884a4fd2.jpg" width="50px" height="50px" />
 
     
   
