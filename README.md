@@ -10,7 +10,7 @@
 [![](https://visitcount.itsvg.in/api?id=senethmendis&icon=0&color=0)](https://visitcount.itsvg.in)
 ### 👤 More About Me:
 
-- 🔭 &nbsp; I’m currently Studying in **SLIIT, Undergraduate**
+- 🔭 &nbsp; I’m currently Studying in **SLIIT, Undergraduate** (university of Bedfordshire)
 - 🌱 &nbsp; I’m currently learning **React.js**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wolfy-six/)
   <br>
