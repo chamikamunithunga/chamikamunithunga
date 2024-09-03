@@ -49,7 +49,7 @@
 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-                 Chukz_space: Travel is ALL I NEED
+                Chukz_space : Travel is ALL I NEED
                             : Travel whole world with step count
                             : perform all the time......
                             : Loading........
