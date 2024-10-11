@@ -71,6 +71,8 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
 
+![Top Langs](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
+
 
 
 
