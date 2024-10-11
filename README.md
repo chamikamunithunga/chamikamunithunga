@@ -78,7 +78,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamikamunithunga&show_icons=true&locale=en" alt="chamikamunithunga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamikamunithunga&" alt="chamikamunithunga" /></p>
+
 
 
 
