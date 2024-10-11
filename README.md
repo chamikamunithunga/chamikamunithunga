@@ -62,7 +62,7 @@
                             : $)$ Error
             
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikamunithunga&show_icons=true&locale=en&layout=compact" alt="chamikamunithunga" /></p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
