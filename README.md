@@ -78,7 +78,7 @@
 
 
 
-![ 🏆 chamikamunithunga's Stats](https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
+![  chamikamunithunga's Stats](https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
 
 
 
