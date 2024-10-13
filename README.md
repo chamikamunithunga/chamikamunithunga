@@ -29,6 +29,7 @@
 
 
 <img src="lt.png"/>
+<br>
 
   
 
@@ -40,6 +41,7 @@
   <img src="https://visitcount.itsvg.in/api?id=chamikamunithunga&label=Profile%20Views&color=2&pretty=false" />
 </a>
 <br/>
+<br>
 
 <p align="left"> <a href="https://github.com/chamikamunithunga?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=chamikamunithunga" alt="chamikamunithunga" /></a> </p>
 
