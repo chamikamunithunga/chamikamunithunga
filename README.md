@@ -87,7 +87,7 @@
 
 
 
-<strong>🏆 chamikamunithunga's github stats</strong>
+<strong>🏆 chamikamunithunga</strong>
 
 <a href="https://stats.hyochan.dev/en/stats/chamikamunithunga"><img src="https://stats.hyochan.dev/api/github-stats?login=chamikamunithunga" width="600" /></a>
 
