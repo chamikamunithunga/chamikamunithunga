@@ -90,6 +90,7 @@
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=chamikamunithunga)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamikamunithunga&theme=github_dark)
 
 
 
