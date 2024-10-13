@@ -91,7 +91,9 @@
 
 <a href="https://stats.hyochan.dev/en/stats/chamikamunithunga"><img src="https://stats.hyochan.dev/api/github-stats?login=chamikamunithunga" width="600" /></a>
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=chamikamunithunga)
+![github-stats](https://stats.dooboo.io/api/github-stats?login=chamikamunithunga)
+
+
 
 
 
