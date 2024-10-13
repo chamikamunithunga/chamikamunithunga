@@ -19,7 +19,16 @@
 - 📩 &nbsp; How to reach me chamikamunithunga140@gmail.com
 - 👨‍💻 &nbsp; Website for more Details https://chamikam.netlify.app
 -    &nbsp; catch me on Daily.dev : https://app.daily.dev/hdchamikamunithunga 
+  
+
+  <img src="c.png"/>
   <br>
+  <h1 align="center">
+    <a href="https://chamikamunithunga.github.io/Chamika.M/" target="_blank" style="text-decoration: none; color: inherit;">CLICK ME UP</a>
+</h1>
+
+
+  
 
   
 
