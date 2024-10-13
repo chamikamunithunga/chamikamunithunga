@@ -82,6 +82,7 @@
 
 
 ![Top Langs](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamikamunithunga&theme=github_dark)
 
 
 <strong>🏆 chamikamunithunga's github stats</strong>
@@ -90,7 +91,7 @@
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=chamikamunithunga)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamikamunithunga&theme=github_dark)
+
 
 
 
