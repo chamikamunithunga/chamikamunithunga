@@ -83,6 +83,7 @@
 
 ![Top Langs](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamikamunithunga&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamikamunithunga&theme=github_dark)
 
 
 <strong>🏆 chamikamunithunga's github stats</strong>
