@@ -93,7 +93,7 @@
 
 ![github-stats](https://stats.dooboo.io/api/github-stats?login=chamikamunithunga)
 
-![github-trophies](https://stats.dooboo.io/api/github-trophies?login=chamikamunithunga)
+
 
 
 
