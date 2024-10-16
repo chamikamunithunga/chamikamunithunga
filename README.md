@@ -94,6 +94,10 @@
 
 ![  chamikamunithunga's Stats](https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chamikamunithunga&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 
 <a href="https://stats.hyochan.dev/en/stats/chamikamunithunga"><img src="https://stats.hyochan.dev/api/github-stats?login=chamikamunithunga" width="600" /></a>
