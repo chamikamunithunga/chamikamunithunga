@@ -20,7 +20,11 @@
 - 👨‍💻 &nbsp; Website for more Details https://chamikam.netlify.app
 -    &nbsp; catch me on Daily.dev : https://app.daily.dev/hdchamikamunithunga 
   
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=chamikamunithunga&label=Profile%20Views&color=2&pretty=false" />
+</a>
+<br/>
+<br>
   <img src="c.png"/>
   <br>
   <h1 align="center">
@@ -37,11 +41,7 @@
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=chamikamunithunga&label=Profile%20Views&color=2&pretty=false" />
-</a>
-<br/>
-<br>
+
 
 <p align="left"> <a href="https://github.com/chamikamunithunga?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=chamikamunithunga" alt="chamikamunithunga" /></a> </p>
 
