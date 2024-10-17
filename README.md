@@ -1,5 +1,5 @@
 
-
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
 <h1 align="center">  
@@ -72,8 +72,7 @@
 </p>
 
 
-![github-user-contribution](https://github.com/user-attachments/assets/9ef4f613-2b46-474a-bd1e-e2d81c37d7e8)![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+![github-user-contribution](https://github.com/user-attachments/assets/9ef4f613-2b46-474a-bd1e-e2d81c37d7e8)
 
 
 
@@ -86,6 +85,8 @@
 
 
             
+
+
 
 
 
