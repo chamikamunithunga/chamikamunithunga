@@ -103,7 +103,6 @@
 
 
 
-<a href="https://stats.hyochan.dev/en/stats/chamikamunithunga"><img src="https://stats.hyochan.dev/api/github-stats?login=chamikamunithunga" width="600" /></a>
 
 
 ![Top Langs](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
