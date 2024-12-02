@@ -108,7 +108,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&layout=compact&theme=highcontrast&hide_border=true)
 
 
-![Top Langs](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamikamunithunga&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamikamunithunga&theme=github_dark)
