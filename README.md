@@ -106,7 +106,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&layout=compact&theme=highcontrast&hide_border=true)
+
 
 
 
