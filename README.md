@@ -106,6 +106,7 @@
 
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
 
 
 
