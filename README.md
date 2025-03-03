@@ -10,6 +10,7 @@
     
  <h1 align="center">Hi 👋,  I'm Chamika Munithunga</h1>
 <h3 align="center">Enthusiastic web developer specializing in crafting intuitive and engaging user experiences, with a focus on leveraging AI to drive innovation and excellence.</h3> 
+<h3>a tech enthusiast with a deep passion for space exploration, AI, and cutting-edge technology. My dream is to contribute to NASA, SpaceX, or other space research organizations, building innovative software solutions for the next frontier.</h3>
 
 
 
