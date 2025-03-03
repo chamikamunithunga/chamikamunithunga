@@ -19,7 +19,7 @@
 - 🌱 &nbsp; I’m currently learning **React.js/TypeScript and ML/Ai**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/chamikamunithunga?tab=repositories)
 - 📩 &nbsp; How to reach me chamikamunithunga140@gmail.com
-- 👨‍💻 &nbsp; Website for more Details https://chamikam.netlify.app
+- 👨‍💻 &nbsp; Website for more Details https:[//chamikam.netlify.app](https://chamikamunithunga.github.io/Chamika.M/)
 -    &nbsp; catch me on Daily.dev : https://app.daily.dev/hdchamikamunithunga 
   
 <a href="https://visitcount.itsvg.in">
