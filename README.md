@@ -17,8 +17,7 @@
 
 ### 👤 More About Me:
 
-- 🔭 &nbsp; I’m currently Studying in **SLIIT CITY UNI, Undergraduate** (university of Bedfordshire)
-- 🌱 &nbsp; I’m currently learning **React.js/TypeScript and ML/Ai**
+- 🔭 &nbsp; Bsc(Hons) Computer Science First Class (university of Bedfordshire)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/chamikamunithunga?tab=repositories)
 - 📩 &nbsp; How to reach me chamikamunithunga140@gmail.com
 - 👨‍💻 &nbsp; Website for more Details https:[//chamikam.netlify.app](https://chamikamunithunga.github.io/Chamika.M/)
