@@ -15,6 +15,7 @@
 ### 👨‍🚀 The Mission Objective
 Building the bridge between **Quantum Computing** and **Artificial Intelligence** to power the next generation of **Space Exploration**. 
 
+- 🔭 &nbsp; Bsc(Hons) Computer Science First Class (university of Bedfordshire)
 - 🔭 Currently researching **Quantum Machine Learning (QML)** for diagnostic precision.
 - 🛰️ Dreaming of optimizing **SpaceX/NASA** communication protocols using AI.
 - ⚡ Expert in **Hybrid Classical-Quantum** software architectures.
@@ -51,7 +52,7 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 
 
 
-- 🔭 &nbsp; Bsc(Hons) Computer Science First Class (university of Bedfordshire)
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=chamikamunithunga&label=Profile%20Views&color=2&pretty=false" />
