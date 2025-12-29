@@ -110,7 +110,15 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&card_width=450&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Chamika's Top Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,azure,github,vscode,figma,tensorflow,pytorch&theme=dark" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact&hide_border=true&title_color=00d4ff" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=tokyonight&show_icons=true&hide_border=true&title_color=00d4ff" />
 </div>
 
 
