@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Logic-Entangled-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/AI-Neural_Core-green?style=for-the-badge&logo=probot" />
   </p>
+  
 </div>
 
 ---
@@ -109,17 +110,13 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 
 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,azure,github,vscode,figma,tensorflow,pytorch&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact&hide_border=true&title_color=00d4ff" alt="Top Languages" />
+</p>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact&hide_border=true&title_color=00d4ff" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=tokyonight&show_icons=true&hide_border=true&title_color=00d4ff" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00d4ff" alt="GitHub Stats" />
+</p>
 
 
 
