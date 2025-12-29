@@ -47,30 +47,12 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 
 
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-
-<h1 align="center">  
-
-
-  
-
-    
- <h1 align="center">Hi 👋,  I'm Chamika Munithunga</h1>
-<h3 align="center">Enthusiastic web developer specializing in crafting intuitive and engaging user experiences, with a focus on leveraging AI to drive innovation and excellence.</h3> 
-<h3 align="center">📡 Let’s connect and shape the future of space tech together!</h3>
-<h3 align="center">A tech enthusiast with a deep passion for space exploration, AI, and cutting-edge technology. My dream is to contribute to NASA, SpaceX, or other space research organizations, building innovative software solutions for the next frontier.</h3>
 
 
 
-### 👤 More About Me:
 
 - 🔭 &nbsp; Bsc(Hons) Computer Science First Class (university of Bedfordshire)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/chamikamunithunga?tab=repositories)
-- 📩 &nbsp; How to reach me chamikamunithunga140@gmail.com
-- 👨‍💻 &nbsp; Website for more Details https:[//chamikam.netlify.app](https://chamikamunithunga.github.io/Chamika.M/)
--    &nbsp; catch me on Daily.dev : https://app.daily.dev/hdchamikamunithunga 
-  
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=chamikamunithunga&label=Profile%20Views&color=2&pretty=false" />
 </a>
