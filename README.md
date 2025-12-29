@@ -30,9 +30,6 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 | **Space Apps** | Node.js, Python (FastAPI), Azure Space |
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact" />
-</div>
 
 
 
@@ -54,20 +51,7 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=chamikamunithunga&label=Profile%20Views&color=2&pretty=false" />
-</a>
-<br/>
-<br>
-  <img src="c.png"/>
-  <br>
-  <h1 align="center">
-    <a href="https://chamikamunithunga.github.io/Chamika.M/" target="_blank" style="text-decoration: none; color: inherit;">CLICK ME UP</a>
-</h1>
 
-
-<img src="lt.png"/>
-<br>
 
   
 
