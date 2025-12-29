@@ -1,3 +1,51 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+  
+  <h1>⚛️ Quantum-AI Space Voyager 🚀</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/State-Superposition-blueviolet?style=for-the-badge&logo=quantum" />
+    <img src="https://img.shields.io/badge/Logic-Entangled-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/AI-Neural_Core-green?style=for-the-badge&logo=probot" />
+  </p>
+</div>
+
+---
+
+### 👨‍🚀 The Mission Objective
+Building the bridge between **Quantum Computing** and **Artificial Intelligence** to power the next generation of **Space Exploration**. 
+
+- 🔭 Currently researching **Quantum Machine Learning (QML)** for diagnostic precision.
+- 🛰️ Dreaming of optimizing **SpaceX/NASA** communication protocols using AI.
+- ⚡ Expert in **Hybrid Classical-Quantum** software architectures.
+
+---
+
+### 🛠️ The Tech Multiverse
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Quantum** | Qiskit, Cirq, IBM Quantum Cloud |
+| **Intelligence** | TensorFlow, PyTorch, Scikit-learn, VQC |
+| **Space Apps** | Node.js, Python (FastAPI), Azure Space |
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
