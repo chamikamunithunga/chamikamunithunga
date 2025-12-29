@@ -110,17 +110,11 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact&hide_border=true&title_color=00d4ff" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00d4ff" alt="GitHub Stats" />
-</p>
 
 
 
-![  chamikamunithunga's Stats](https://github-readme-stats.vercel.app/api?username=chamikamunithunga&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chamikamunithunga&theme=highcontrast&hide_border=true)
 
