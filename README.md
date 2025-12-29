@@ -109,7 +109,9 @@ Building the bridge between **Quantum Computing** and **Artificial Intelligence*
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga=compact&theme=radical&hide=swift,c%23)](https://github.com/chamikamunithunga/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamikamunithunga&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&card_width=450&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Chamika's Top Languages" />
+</div>
 
 
 
